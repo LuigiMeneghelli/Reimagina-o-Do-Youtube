@@ -1,0 +1,11 @@
+.conteudo__videos{
+    display: flex;
+    flex-wrap: wrap;
+    border: solid rgb(72,61,139);
+    border-width: 0 1px 1px 1px;
+}
+.ver-mais{
+    margin: 2%;
+    font-size: 0.90rem;
+    color: white;
+}

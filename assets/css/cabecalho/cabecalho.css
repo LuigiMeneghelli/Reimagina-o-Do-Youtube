@@ -1,0 +1,7 @@
+.cabecalho{
+    display: flex;
+    background: rgb(108,0,0);
+    padding: .5% 2% .5% 2%;
+    align-items: center;
+    border: solid 1px rgb(72,61,139);
+}

@@ -1,0 +1,8 @@
+.cabecalho__botao{
+    margin-right: 15rem;
+}
+.cabecalho__botao:hover{
+    border: solid 1px blue;
+    height: calc(30 - 2px);
+    width: calc(65px - 2px);
+}
